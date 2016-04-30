@@ -1,0 +1,26 @@
+{
+  "name": "o2-rain",
+  "version": "1.0.0",
+  "description": "Add raindrop effects on screen",
+  "author": "b123400@gmail.com",
+  "scripts": {
+    "lint": "eslint -c .eslintrc.json rain.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novelsphere/o2-rain.git"
+  },
+  "keywords": [
+    "o2engine"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "o2": ">= 2.2"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.4.0"
+  },
+  "license": "MIT"
+}
